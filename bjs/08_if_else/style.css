@@ -1,3 +1,9 @@
+body {
+  background-image: url(https://img.freepik.com/free-vector/cryptocurrency-coding-digital-background-vector-open-source-blockchain-concept_53876-140597.jpg?w=1380&t=st=1705990751~exp=1705991351~hmac=248bb1e76aaa8db8797da034bf9e0f3d393468d34a4cbc312eb61b018a0505d3);
+  background-size: cover;
+  background-position: 0%;
+  background-repeat: no-repeat;
+}
 .card {
     cursor: default;
     margin-right: 20px;
@@ -5,9 +11,9 @@
   }
 
 .card:hover {
-    -webkit-box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
-    -moz-box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
-    box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
+    -webkit-box-shadow: 0px 0px 30px 0px black;
+    -moz-box-shadow: 0px 0px 30px 0px darkviolet;
+    box-shadow: 0px 0px 30px 0px blue;
   }
 
 .game-card {
@@ -16,15 +22,15 @@
 }
 
 .card-header {
-  background-color: rgba(127, 255, 212, 0.301);
+  background-color: rgba(252, 6, 6, 0.459);
 }
 
 .card-footer {
-  background-color: rgba(127, 255, 212, 0.301);
+  background-color: rgba(0, 238, 255, 0.623);
 }
 
 .card-body {
-  background-color: rgba(207, 221, 14, 0.151);
+  background-color: rgba(0, 238, 255, 0.623);
 }
 
 .form-group {
